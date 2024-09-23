@@ -1,7 +1,7 @@
 ## Laravel Fortify Mastery - Parte 1
 
 <p align="center">
-    <a href="[https://laravel.com](https://youtu.be/ek_ZjG4UKzY?si=XEO9p5ZiwVMC-cKl)" target="_blank">
+    <a href="https://youtu.be/ek_ZjG4UKzY?si=XEO9p5ZiwVMC-cKl" target="_blank">
         <img src="public/cover1.png"  alt="Laravel Logo">
     </a>
 </p>
